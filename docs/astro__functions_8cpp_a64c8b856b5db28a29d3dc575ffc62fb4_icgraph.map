@@ -1,0 +1,17 @@
+<map id="norm" name="norm">
+<area shape="rect" id="node2" href="$mga_8cpp.html#a27c09d5c5b205146a23072f327733582" title="MGA" alt="" coords="158,28,209,53"/>
+<area shape="rect" id="node4" href="$mga__dsm_8cpp.html#a27c489f45fb2109273651b44ddaa3418" title="vector_normalize" alt="" coords="122,100,245,125"/>
+<area shape="rect" id="node10" href="$namespacepass_1_1gtoc.html#a19e3b059d69840a84f509d761fc4c3a5" title="pass::gtoc::unit_vector" alt="" coords="106,149,261,175"/>
+<area shape="rect" id="node13" href="$classpass_1_1parallel__swarm__search.html#ad62f81b2973de9870a5932cd477dcd78" title="pass::parallel_swarm\l_search::optimise" alt="" coords="110,199,257,237"/>
+<area shape="rect" id="node16" href="$classpass_1_1particle__swarm__optimisation.html#ad7c5b3788b9508e874df3704cb184f6a" title="pass::particle_swarm\l_optimisation::optimise" alt="" coords="105,261,262,300"/>
+<area shape="rect" id="node3" href="$classpass_1_1cassini1.html#a80c9384c37822423e0bea9867d4219bb" title="pass::cassini1::evaluate" alt="" coords="310,5,473,31"/>
+<area shape="rect" id="node5" href="$mga__dsm_8cpp.html#a3b01dd0ae3ff4b12471e852af435286e" title="first_block" alt="" coords="351,55,432,80"/>
+<area shape="rect" id="node9" href="$mga__dsm_8cpp.html#adab5c6561f131bf260a82f791777ba3c" title="intermediate_block" alt="" coords="325,104,458,129"/>
+<area shape="rect" id="node6" href="$mga__dsm_8cpp.html#a035193a17deee10e1484f42113d5714e" title="MGA_DSM" alt="" coords="553,80,642,105"/>
+<area shape="rect" id="node7" href="$classpass_1_1messenger__full.html#ac60cb8a407374c99e0d134ab1e3f1340" title="pass::messenger_full\l::evaluate" alt="" coords="726,45,873,84"/>
+<area shape="rect" id="node8" href="$classpass_1_1rosetta.html#a47983d7f7c52977851fd3d8a86cdc3d6" title="pass::rosetta::evaluate" alt="" coords="721,108,877,133"/>
+<area shape="rect" id="node11" href="$namespacepass.html#a47f84cf3b7f282effe38edf326c1c3f1" title="pass::lambert" alt="" coords="341,153,442,179"/>
+<area shape="rect" id="node12" href="$classpass_1_1gtoc1.html#ad47c137ebf2203454203e98aa36557dd" title="pass::gtoc1::evaluate" alt="" coords="523,153,671,179"/>
+<area shape="rect" id="node14" href="$namespacepass.html#a549a212de495b2de51af18266bfda71f" title="pass::train" alt="" coords="350,205,433,231"/>
+<area shape="rect" id="node15" href="$namespacepass.html#a3ae4c8a743b8b6a09d79bd2370ff0ade" title="pass::enable_openmp" alt="" coords="521,205,673,231"/>
+</map>

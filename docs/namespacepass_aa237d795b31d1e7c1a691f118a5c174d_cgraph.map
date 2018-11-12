@@ -1,0 +1,8 @@
+<map id="pass::search_parameters" name="pass::search_parameters">
+<area shape="rect" id="node2" href="$classpass_1_1problem.html#a34f46a7c21dc7860a26d562e0fa237b2" title="pass::problem::dimension" alt="" coords="226,5,399,31"/>
+<area shape="rect" id="node3" href="$namespacepass.html#acd4cb203a999cb56b31e57f2c220b395" title="pass::parameter_evaluate" alt="" coords="225,55,401,80"/>
+<area shape="rect" id="node6" href="$namespacepass.html#aa44c0c099b863094a372f423d36c5308" title="pass::random_integer\l_uniform_in_range" alt="" coords="238,104,388,143"/>
+<area shape="rect" id="node7" href="$namespacepass.html#a517e9a78676a3eecd381cb1b52fdcbf7" title="pass::compare_segments" alt="" coords="226,167,400,192"/>
+<area shape="rect" id="node4" href="$classpass_1_1optimiser.html#a349982c6498dba8d21ce2b10df470935" title="pass::optimiser::optimise" alt="" coords="449,27,617,52"/>
+<area shape="rect" id="node5" href="$structpass_1_1optimise__result.html#a961eace2bb184922fc6f41bb5add3e8c" title="pass::optimise_result\l::solved" alt="" coords="459,76,606,115"/>
+</map>

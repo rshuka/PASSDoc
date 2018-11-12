@@ -1,0 +1,5 @@
+<map id="pass::optimiser" name="pass::optimiser">
+<area shape="rect" id="node2" href="$da/d48/classpass_1_1parallel__swarm__search.html" title="pass::parallel_swarm\l_search" alt="" coords="5,79,152,117"/>
+<area shape="rect" id="node3" href="$d3/d7b/classpass_1_1particle__swarm__optimisation.html" title="pass::particle_swarm\l_optimisation" alt="" coords="176,79,323,117"/>
+<area shape="rect" id="node4" href="$d7/d38/classpass_1_1random__search.html" title="pass::random_search" alt="" coords="347,85,496,111"/>
+</map>

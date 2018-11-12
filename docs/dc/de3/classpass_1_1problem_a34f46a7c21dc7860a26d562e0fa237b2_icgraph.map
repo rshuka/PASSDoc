@@ -1,0 +1,5 @@
+<map id="pass::problem::dimension" name="pass::problem::dimension">
+<area shape="rect" id="node2" href="$da/d48/classpass_1_1parallel__swarm__search.html#ad62f81b2973de9870a5932cd477dcd78" title="pass::parallel_swarm\l_search::optimise" alt="" coords="234,5,380,44"/>
+<area shape="rect" id="node3" href="$d3/d7b/classpass_1_1particle__swarm__optimisation.html#ad7c5b3788b9508e874df3704cb184f6a" title="pass::particle_swarm\l_optimisation::optimise" alt="" coords="228,68,385,107"/>
+<area shape="rect" id="node4" href="$dc/de3/classpass_1_1problem.html#a0a08c3c27e8edccc9a84c4dad3872cdd" title="pass::problem::problem" alt="" coords="227,131,387,156"/>
+</map>

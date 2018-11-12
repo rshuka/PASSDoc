@@ -1,0 +1,31 @@
+<map id="MGA_DSM" name="MGA_DSM">
+<area shape="rect" id="node2" href="$d8/de0/mga__dsm_8cpp.html#a3f0647e224584f163a6456da4da702a3" title="precalculate_ers_and_vees" alt="" coords="142,116,326,141"/>
+<area shape="rect" id="node10" href="$d8/de0/mga__dsm_8cpp.html#a3b01dd0ae3ff4b12471e852af435286e" title="first_block" alt="" coords="194,599,275,624"/>
+<area shape="rect" id="node14" href="$d2/d75/astro__functions_8hpp.html#a00f243a3154e4dda0daddc965c0ae92c" title="norm2" alt="" coords="782,927,841,952"/>
+<area shape="rect" id="node16" href="$d2/d75/astro__functions_8hpp.html#a0c2ef222a2fb21af18a460600e9f088b" title="vett" alt="" coords="790,523,833,548"/>
+<area shape="rect" id="node26" href="$d8/de0/mga__dsm_8cpp.html#adab5c6561f131bf260a82f791777ba3c" title="intermediate_block" alt="" coords="168,825,301,851"/>
+<area shape="rect" id="node27" href="$d8/de0/mga__dsm_8cpp.html#a6dbfe31f986d9c5cc4c3e1b0f57dc300" title="get_celobj_mu" alt="" coords="389,960,497,985"/>
+<area shape="rect" id="node28" href="$d8/de0/mga__dsm_8cpp.html#af5f1f7a967f5ee3e410ee0369228235d" title="final_block" alt="" coords="192,1069,276,1095"/>
+<area shape="rect" id="node29" href="$d8/de0/mga__dsm_8cpp.html#a28413da5bb01f138ce665f1414be101b" title="time2distance" alt="" coords="392,1009,495,1035"/>
+<area shape="rect" id="node3" href="$d8/de0/mga__dsm_8cpp.html#ade4d94146e86d060a72923eb3f0d82db" title="get_celobj_r_and_v" alt="" coords="374,61,512,87"/>
+<area shape="rect" id="node4" href="$dd/d3f/pl__eph__an_8hpp.html#a0943d813905e04ae5aa29fb1b797f562" title="Planet_Ephemerides\l_Analytical" alt="" coords="560,55,705,93"/>
+<area shape="rect" id="node9" href="$dd/d3f/pl__eph__an_8hpp.html#a3b8808cccfc5d85150f8a082961ed9e1" title="Custom_Eph" alt="" coords="584,5,682,31"/>
+<area shape="rect" id="node5" href="$d2/d75/astro__functions_8hpp.html#a664698a43e4c8074366452018ed72749" title="Mean2Eccentric" alt="" coords="753,61,870,87"/>
+<area shape="rect" id="node8" href="$d2/d75/astro__functions_8hpp.html#a4e3d42c4ab054384068bce185f1a3350" title="Conversion" alt="" coords="767,9,856,35"/>
+<area shape="rect" id="node6" href="$da/d7f/classzero__finder_1_1_function1_d.html#ac30c0375ae5ac5febe676e18f0d4ec8f" title="zero_finder::Function1D\l::SetParameters" alt="" coords="918,24,1082,63"/>
+<area shape="rect" id="node7" href="$df/d82/classzero__finder_1_1_f_zero.html#a7589cb1583c7a45e1fefceea6824b4fa" title="zero_finder::FZero\l::FindZero" alt="" coords="935,87,1066,125"/>
+<area shape="rect" id="node11" href="$da/d63/propagate__kep_8hpp.html#a98681cc1f45e75c041966fc5a05b1267" title="cross" alt="" coords="417,397,470,423"/>
+<area shape="rect" id="node12" href="$d8/de0/mga__dsm_8cpp.html#a27c489f45fb2109273651b44ddaa3418" title="vector_normalize" alt="" coords="382,775,505,800"/>
+<area shape="rect" id="node15" href="$da/d63/propagate__kep_8hpp.html#a8ddfc674d6d19000fd70851b45449637" title="propagateKEP" alt="" coords="389,599,497,624"/>
+<area shape="rect" id="node19" href="$dc/d5a/lambert_8hpp.html#a3966e98f9a461980fee478595dc7a40d" title="LambertI" alt="" coords="406,447,480,472"/>
+<area shape="rect" id="node13" href="$d2/d75/astro__functions_8hpp.html#ac5dd3ee1c6d86c0c095f41c376aeb4dc" title="norm" alt="" coords="607,775,659,800"/>
+<area shape="rect" id="node17" href="$dc/d74/propagate__kep_8cpp.html#a4b9c576c78553548e4459224dec315ff" title="IC2par" alt="" coords="602,573,663,599"/>
+<area shape="rect" id="node18" href="$dc/d74/propagate__kep_8cpp.html#accbf3205c1ac536de7560857e54b3a33" title="par2IC" alt="" coords="602,623,663,648"/>
+<area shape="rect" id="node20" href="$d2/d75/astro__functions_8hpp.html#a0227968fb6aa9fa34ef5e9cdfd567817" title="x2tof" alt="" coords="608,169,658,195"/>
+<area shape="rect" id="node23" href="$d2/d75/astro__functions_8hpp.html#acb0235d091ff0bf8b22a3cf0072d0664" title="asinh" alt="" coords="606,321,659,347"/>
+<area shape="rect" id="node24" href="$d2/d75/astro__functions_8hpp.html#a96dece50c6ff793922c9eadaf0afb26c" title="acosh" alt="" coords="604,371,661,396"/>
+<area shape="rect" id="node25" href="$d2/d75/astro__functions_8hpp.html#a2f17d6a25625229aaf43d8c63934c122" title="vers" alt="" coords="610,472,656,497"/>
+<area shape="rect" id="node21" href="$df/d8b/astro__functions_8cpp.html#ac862445bcb46911b1782c284829d5e46" title="acosh" alt="" coords="783,145,840,171"/>
+<area shape="rect" id="node22" href="$df/d8b/astro__functions_8cpp.html#a907297107e93ea9c8a0c8409a8e65079" title="asinh" alt="" coords="785,195,838,220"/>
+<area shape="rect" id="node30" href="$da/d63/propagate__kep_8hpp.html#a8edea513bebffa9b4bfcfae2339085c1" title="IC2par" alt="" coords="602,927,663,952"/>
+</map>

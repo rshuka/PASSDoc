@@ -1,0 +1,7 @@
+<map id="pass::stopwatch::get_elapsed" name="pass::stopwatch::get_elapsed">
+<area shape="rect" id="node2" href="$classpass_1_1parallel__swarm__search.html#ad62f81b2973de9870a5932cd477dcd78" title="pass::parallel_swarm\l_search::optimise" alt="" coords="201,5,348,44"/>
+<area shape="rect" id="node5" href="$classpass_1_1particle__swarm__optimisation.html#ad7c5b3788b9508e874df3704cb184f6a" title="pass::particle_swarm\l_optimisation::optimise" alt="" coords="196,68,353,107"/>
+<area shape="rect" id="node6" href="$classpass_1_1random__search.html#afb213aed0ec51a616a024e8dffc80b9f" title="pass::random_search\l::optimise" alt="" coords="200,131,349,169"/>
+<area shape="rect" id="node3" href="$namespacepass.html#a549a212de495b2de51af18266bfda71f" title="pass::train" alt="" coords="401,12,484,37"/>
+<area shape="rect" id="node4" href="$namespacepass.html#a3ae4c8a743b8b6a09d79bd2370ff0ade" title="pass::enable_openmp" alt="" coords="532,12,685,37"/>
+</map>
