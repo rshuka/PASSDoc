@@ -1,0 +1,7 @@
+<map id="pass::random_search::optimise" name="pass::random_search::optimise">
+<area shape="rect" id="node2" href="$d1/de7/classpass_1_1stopwatch.html#a241e92a5517da53d47a566fd8e94bf14" title="pass::stopwatch::start" alt="" coords="217,5,367,31"/>
+<area shape="rect" id="node3" href="$dc/de3/classpass_1_1problem.html#af7b2f50504b36e72e5380f718f4df5af" title="pass::problem::normalised\l_random_agents" alt="" coords="203,55,381,93"/>
+<area shape="rect" id="node4" href="$dc/de3/classpass_1_1problem.html#a14b265106d8904b5a1def01117f39b83" title="pass::problem::evaluate\l_normalised" alt="" coords="210,117,373,156"/>
+<area shape="rect" id="node5" href="$d1/de7/classpass_1_1stopwatch.html#abf01af9aec2f8e883ce3c7b076b1302d" title="pass::stopwatch::get\l_elapsed" alt="" coords="220,180,363,219"/>
+<area shape="rect" id="node6" href="$d1/df6/structpass_1_1optimise__result.html#a961eace2bb184922fc6f41bb5add3e8c" title="pass::optimise_result\l::solved" alt="" coords="218,243,365,281"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="pass::particle_swarm_optimisation::optimise" name="pass::particle_swarm_optimisation::optimise">
+<area shape="rect" id="node2" href="$d1/de7/classpass_1_1stopwatch.html#a241e92a5517da53d47a566fd8e94bf14" title="pass::stopwatch::start" alt="" coords="224,5,374,31"/>
+<area shape="rect" id="node3" href="$dc/de3/classpass_1_1problem.html#af7b2f50504b36e72e5380f718f4df5af" title="pass::problem::normalised\l_random_agents" alt="" coords="210,55,388,93"/>
+<area shape="rect" id="node4" href="$dc/de3/classpass_1_1problem.html#a34f46a7c21dc7860a26d562e0fa237b2" title="pass::problem::dimension" alt="" coords="213,117,386,143"/>
+<area shape="rect" id="node5" href="$dc/de3/classpass_1_1problem.html#a14b265106d8904b5a1def01117f39b83" title="pass::problem::evaluate\l_normalised" alt="" coords="218,167,381,205"/>
+<area shape="rect" id="node6" href="$d1/df6/structpass_1_1optimise__result.html#a3796425b95a93d3334a861a5c3d575c0" title="pass::optimise_result\l::agent" alt="" coords="226,229,372,268"/>
+<area shape="rect" id="node8" href="$d1/de7/classpass_1_1stopwatch.html#abf01af9aec2f8e883ce3c7b076b1302d" title="pass::stopwatch::get\l_elapsed" alt="" coords="228,292,371,331"/>
+<area shape="rect" id="node9" href="$d1/df6/structpass_1_1optimise__result.html#a961eace2bb184922fc6f41bb5add3e8c" title="pass::optimise_result\l::solved" alt="" coords="226,355,372,393"/>
+<area shape="rect" id="node7" href="$dc/de3/classpass_1_1problem.html#a695514869ff3c425f0844832b11c3695" title="pass::problem::bounds\l_range" alt="" coords="436,229,592,268"/>
+</map>

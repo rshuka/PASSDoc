@@ -1,0 +1,5 @@
+<map id="pass::stopwatch::start" name="pass::stopwatch::start">
+<area shape="rect" id="node2" href="$da/d48/classpass_1_1parallel__swarm__search.html#ad62f81b2973de9870a5932cd477dcd78" title="pass::parallel_swarm\l_search::optimise" alt="" coords="209,5,355,44"/>
+<area shape="rect" id="node3" href="$d3/d7b/classpass_1_1particle__swarm__optimisation.html#ad7c5b3788b9508e874df3704cb184f6a" title="pass::particle_swarm\l_optimisation::optimise" alt="" coords="204,68,361,107"/>
+<area shape="rect" id="node4" href="$d7/d38/classpass_1_1random__search.html#afb213aed0ec51a616a024e8dffc80b9f" title="pass::random_search\l::optimise" alt="" coords="207,131,357,169"/>
+</map>

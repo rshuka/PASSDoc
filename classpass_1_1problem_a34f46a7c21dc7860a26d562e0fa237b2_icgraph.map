@@ -1,0 +1,9 @@
+<map id="pass::problem::dimension" name="pass::problem::dimension">
+<area shape="rect" id="node2" href="$namespacepass.html#aa237d795b31d1e7c1a691f118a5c174d" title="pass::search_parameters" alt="" coords="244,5,415,31"/>
+<area shape="rect" id="node3" href="$namespacepass.html#a3ae4c8a743b8b6a09d79bd2370ff0ade" title="pass::enable_openmp" alt="" coords="611,107,764,132"/>
+<area shape="rect" id="node4" href="$namespacepass.html#aa2feb584ff3e19b172335e97ad9373b1" title="pass::problem_evaluation_time" alt="" coords="227,107,432,132"/>
+<area shape="rect" id="node6" href="$classpass_1_1parallel__swarm__search.html#ad62f81b2973de9870a5932cd477dcd78" title="pass::parallel_swarm\l_search::optimise" alt="" coords="256,156,403,195"/>
+<area shape="rect" id="node7" href="$classpass_1_1particle__swarm__optimisation.html#ad7c5b3788b9508e874df3704cb184f6a" title="pass::particle_swarm\l_optimisation::optimise" alt="" coords="251,219,408,257"/>
+<area shape="rect" id="node8" href="$classpass_1_1problem.html#a0a08c3c27e8edccc9a84c4dad3872cdd" title="pass::problem::problem" alt="" coords="249,281,410,307"/>
+<area shape="rect" id="node5" href="$namespacepass.html#a549a212de495b2de51af18266bfda71f" title="pass::train" alt="" coords="480,157,563,183"/>
+</map>
